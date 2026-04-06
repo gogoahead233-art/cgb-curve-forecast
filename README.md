@@ -51,7 +51,7 @@ Signal Summary by Dimension:
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cgb-curve-forecast.git
+git clone https://github.com/gogoahead233-art/cgb-curve-forecast.git
 cd cgb-curve-forecast
 
 pip install -r requirements.txt
