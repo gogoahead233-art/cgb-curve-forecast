@@ -3,12 +3,8 @@
 A multi-agent system built on LangGraph that predicts Chinese Government Bond (CGB) yield curve direction and shape, outputting allocation-oriented investment recommendations.
 
 <img width="2240" height="1251" alt="image" src="https://github.com/user-attachments/assets/4d41457b-57c8-4c13-b743-180cbb3cee5f" />
-<img width="2240" height="1174" alt="image" src="https://github.com/user-attachments/assets/5ea0ad96-ca99-43f2-b752-e5603587883c" />
-<img width="2232" height="1216" alt="image" src="https://github.com/user-attachments/assets/79b47313-b0f1-4a45-838f-a163084889f4" />
-<img width="2222" height="1222" alt="image" src="https://github.com/user-attachments/assets/467e776b-f4a9-4ac1-a668-e37c0b4a397a" />
-<img width="2221" height="1256" alt="image" src="https://github.com/user-attachments/assets/321ef3cd-a6b1-49d5-8e18-455f53691659" />
-<img width="2237" height="1219" alt="image" src="https://github.com/user-attachments/assets/11cfb1a7-b7f2-44c8-9716-2647e499209d" />
 <img width="2240" height="955" alt="image" src="https://github.com/user-attachments/assets/6ebc1e0e-2fa2-42ce-8449-211f5428111a" />
+<img width="1854" height="1185" alt="B)U }0V5OZXXP2VINN}3U_G" src="https://github.com/user-attachments/assets/18a30b2f-2b12-4d06-8d67-bceafdb7192f" />
 
 ## How It Works
 
